@@ -8,8 +8,8 @@ class App extends Component {
     render() {
         return (
             <Fragment>
-            <Header />
-            <Main />
+                <Header />
+                <Main />
             </Fragment>
         );
     }
