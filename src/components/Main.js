@@ -16,7 +16,7 @@ class Main extends Component {
                         <div className={ "weather-image" }>
                             <i className={ "cloud" }></i>
                         </div>
-                        <h1 className={ "temp" }>22 &#8451</h1>
+                        <h1 className={ "temp" }>22&deg;C</h1>
                         <h2 className={ "city" }>Moscow</h2>
                         <div className={"details"}>
                             <div className={"col"}>
