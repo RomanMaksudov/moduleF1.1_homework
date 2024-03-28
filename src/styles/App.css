@@ -2,17 +2,7 @@ html, body{
     margin: 0;
     padding: 0;
 } 
-div {
-    padding: 10px;
-}
 h1 {
     text-align: center;
     color: #55a90b;
-}
-
-header{
-    color: rgb(139, 139, 170);
-    background: rgb(29, 27, 48);
-    font-size: 4rem;
-    height: 80px;
 }
