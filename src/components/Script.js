@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 
-function Weather(){
+function Script(){
     const apiKey = "366d1896809eed5516d485434ad6f3e2";
     const apiUrl = 'https://api.openweathermap.org/data/2.5/weather?units=metric&q=';
 
@@ -24,3 +24,5 @@ function Weather(){
         searchInput.value = "";
     })
 }
+
+export default Script;

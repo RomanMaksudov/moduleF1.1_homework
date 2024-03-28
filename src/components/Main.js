@@ -37,7 +37,6 @@ function Main() {
                         </div>
                     </div>
                 </div>
-                <script src="Script.js"></script>
             </main>
         )
     };
