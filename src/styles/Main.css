@@ -15,7 +15,7 @@ main{
 }
 .container{
     background-color: rgb(255, 255, 255);
-    width: 700px;
+    width: clamp(700px, 75%, 300%);
     height: auto;
     padding: 28px 35px;
     overflow: hidden;
