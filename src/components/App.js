@@ -5,10 +5,14 @@ import "../styles/App.css";
 class App extends Component {
     render() {
         return (
-            <div>
-                <header>Weather App</header>
-                <h1>Hello World</h1>
-            </div>
+            <React.Fragment>
+            <header>Weather App</header>
+            <main>
+                <div>
+                    <h1>Weather</h1>
+                </div>
+            </main>
+            </React.Fragment>
         );
     }
 }
